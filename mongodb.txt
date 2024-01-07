@@ -1,0 +1,6 @@
+mongodb:
+usuario:   leandro
+password:  ZYyyFGbXKrnJHNEo
+
+
+mongodb+srv://leandro:ZYyyFGbXKrnJHNEo@cluster1.mlvzjvx.mongodb.net/?retryWrites=true&w=majority
